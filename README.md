@@ -1,5 +1,5 @@
-# java-demo
-java-demo , iot server 
+# iot-gateway-spring-boot
+Lightweight Core , iot server 
 
-Sprint-boot API server Demo . A simplified IoT server , which provides the suggested room temperature based on collected data . It includes the bluetooth and zigbee bridge too . Beacuse it is a demo , the database , ETL and real AI parts are not included .  
+A Spring Boot IoT microservice designed to bridge Bluetooth and Zigbee protocols. It features a rule-based engine for climate optimization, architected for easy integration with external ETL pipelines and AI modeling engines.  
 
